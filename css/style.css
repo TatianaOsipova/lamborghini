@@ -79,13 +79,34 @@ body {
 
 .promo__inner {
     min-height: 100vh;
+    text-align: center;
 }
 
-.title {}
+.title {
+    font-family: 'Impact', sans-serif;
+    font-weight: 700;
+    font-size: 76px;
+    letter-spacing: 0.02em;
+}
 
-.subtitle {}
+.subtitle {
+    font-family: 'Impact', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    border-bottom: 1px solid #040404;
 
-.promo__text {}
+}
+
+.subtitle span{
+    display: block;
+    font-size: 34px;
+    color: #9F6B08;
+}
+
+.promo__text {
+    font-size: 16px;
+    color:#363636;
+}
 
 
 
