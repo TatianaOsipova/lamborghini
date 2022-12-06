@@ -429,5 +429,17 @@ body {
     transform: translateX(8px);
 }
 
+.blog__quote{
+    display: flex;
+    justify-content: space-between;
+    gap: 0 20px;
+}
+
+.blog__quote-box{
+    flex-basis: 434px;
+}
+
+
+
 
 /* section blog style end */
