@@ -439,6 +439,28 @@ body {
     flex-basis: 434px;
 }
 
+.blockquote{
+    margin-bottom: 30px;
+}
+
+.blockquote__name{
+    font-weight: 700;
+    margin-bottom: 10px;
+
+}
+
+.blockquote__name span{
+    display: block;
+    font-size: 12px;
+    margin-bottom: 3px;
+    color: #9F6B08;
+
+}
+
+.blockquote__text{
+    font-style: italic;
+}
+
 
 
 
