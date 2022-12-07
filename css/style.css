@@ -446,7 +446,6 @@ body {
 .blockquote__name{
     font-weight: 700;
     margin-bottom: 10px;
-
 }
 
 .blockquote__name span{
@@ -454,14 +453,21 @@ body {
     font-size: 12px;
     margin-bottom: 3px;
     color: #9F6B08;
-
 }
 
 .blockquote__text{
     font-style: italic;
 }
 
-
-
-
 /* section blog style end */
+
+/* footer style start */
+
+
+
+
+/* footer style end */
+
+
+
+
