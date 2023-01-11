@@ -7,7 +7,7 @@ menuBtn.addEventListener('click', () => {
 
 
 const swiper = new Swiper('.swiper', {
-    loop: true,    
+    loop: true,
 
     // Navigation arrows
     navigation: {
