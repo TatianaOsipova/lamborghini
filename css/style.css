@@ -576,6 +576,12 @@ body {
     }
 }
 
+@media(max-width: 969px) {
+    .evo-white__inner::after {
+        display: none;
+    }
+}
+
 @media(max-width: 840px) {
     .menu-btn {
         display: flex;
@@ -648,6 +654,29 @@ body {
     }
 }
 
+@media(max-width: 669px) {
+    .evo-white__inner::before {
+        display: none;
+    }
+
+    .evo__descr-list {
+        display: block;
+        text-align: center;
+    }
+
+    .evo__descr-list div {
+        margin-bottom: 15px;
+    }
+
+    .evo-black__info {
+        display: block;
+    }
+
+    .evo-black__title {
+        margin-bottom: 20px;
+    }
+}
+
 @media(max-width: 560px) {
     .title {
         font-size: 48px;
@@ -664,6 +693,10 @@ body {
     .info__table td:ntn-chil(2) {
         padding-left: 5px;
         padding-right: 5px;
+    }
+
+    .evo-black__inner::after{
+        display: none;
     }
 }
 
